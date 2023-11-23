@@ -1,16 +1,22 @@
 # Security Policy
 
-## Supported Versions
+## Supported Versions Pterodactyl
 
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 1.0.0 and 1.11.5   | :white_check_mark: |
+
+## Supported Versions Whmcs
+
+Use this section to tell people about which versions of your project are
+currently being supported with security updates.
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 7.x.x and 8.x.x   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
