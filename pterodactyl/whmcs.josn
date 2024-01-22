@@ -3,7 +3,7 @@
   "type": "whmcs-servers",
   "name": "pterodactyl",
   "license": "open-source",
-  "category": "gamehosting",
+  "category": "vpscloud",
   "description": {
     "name": "Pterodactyl",
     "tagline": "Open-source game server management panel",
@@ -21,8 +21,8 @@
   },
   "support": {
     "homepage": "https:\/\/pterodactyl.io\/",
-    "support_url": "https:\/\/github.com\/\/pterodactyl\/\/whmcs",
-    "docs_url": "https:\/\/pterodactyl.io\/\/project\/\/introduction.html"
+    "support_url": "https:\/\/github.com\/pterodactyl\/whmcs-plugin\/issues",
+    "docs_url": "https:\/\/docs.pterodactyl.io\/"
   },
   "authors": [
     {
